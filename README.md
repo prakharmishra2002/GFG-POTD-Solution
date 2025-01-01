@@ -1,4 +1,4 @@
-<h1 align = 'center'>🚀 GeeksforGeeks Problem of the Day Solutions 2024 🧠<h1>
+<h1 align = 'center'>🚀GeeksforGeeks Problem of the Day Solutions 2024🧠<h1>
 
 ## 📅 January 2024 Problem of the Day Solutions 📅
 
