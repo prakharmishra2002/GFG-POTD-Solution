@@ -1,6 +1,6 @@
 <h1 align = 'center'>🚀GeeksforGeeks Problem of the Day Solutions 2024🧠</h1>
 
-<div align = 'center>
+<div align = 'center'>
 ## 📅 January 2024 Problem of the Day Solutions 📅
 
 | Date    | Problem Name              | C        | C++      | Java     | Python   |
