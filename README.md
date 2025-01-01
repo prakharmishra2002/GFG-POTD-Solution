@@ -7,6 +7,6 @@
 
 | Date    | Problem Name              | C        | C++      | Java     | Python   |
 |---------|---------------------------|----------|----------|----------|----------|
-| 01 Jan  | Print Anagrams Together  | [Solution](#) | [Solution](#) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/01.py) | [Solution](#) |
+| 01 Jan  | Print Anagrams Together  | [Solution](#) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/01.cpp) | [Solution](#) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/01.py) |
 
 </div>
