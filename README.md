@@ -1,4 +1,4 @@
-<h1 align = 'center'>🚀GeeksforGeeks Problem of the Day Solutions 2025🧠</h1>
+<h1 align = 'center'>🔒GeeksforGeeks Problem of the Day Solutions 2025🔒</h1>
 
 
 <h2 align = 'center'>📅 January 2025 Problem of the Day Solutions 📅</h2>
