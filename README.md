@@ -8,5 +8,6 @@
 | Date    | Problem Name              | C        | C++      | Python   |
 |---------|---------------------------|----------|----------|----------|
 | 01 Jan  | Print Anagrams Together  | | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/01.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/01.py) |
+| 02 Jan  | Subarrays with sum K  | | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/02.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/02.py) |
 
 </div>
