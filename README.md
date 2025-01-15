@@ -19,5 +19,6 @@
 | 10 Jan  | Count distinct elements in every window  |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/10.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/10.py) |
 | 11 Jan  | Longest substring with distinct characters  |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/11.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/11.py) |
 | 13 Jan  | Container With Most Water  |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/13.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/13.py) |
+| 15 Jan  | Longest Subarray with Sum K  |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/15.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/15.py) |
 
 </div>
