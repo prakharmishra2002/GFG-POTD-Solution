@@ -24,5 +24,6 @@
 | 17 Jan  | Product array puzzle  |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/17.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/17.py) |
 | 18 Jan  | Reverse a linked list  |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/18.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/18.py) |
 | 19 Jan  | Rotate a Linked List  |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/19.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/19.py) |
+| 20 Jan  | Merge two sorted linked lists  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/20.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/20.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/20.py) |
 
 </div>
