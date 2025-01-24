@@ -26,5 +26,6 @@
 | 19 Jan  | Rotate a Linked List  |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/19.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/19.py) |
 | 20 Jan  | Merge two sorted linked lists  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/20.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/20.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/20.py) |
 | 23 Jan  | clone-a-linked-list-with-next-and-random-pointer  |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/23.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/23.py) |
+| 24 Jan  | Detect Loop in linked list  |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/24.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/24.py) |
 
 </div>
