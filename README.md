@@ -28,5 +28,6 @@
 | 23 Jan  | clone-a-linked-list-with-next-and-random-pointer  |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/23.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/23.py) |
 | 24 Jan  | Detect Loop in linked list  |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/24.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/24.py) |
 | 25 Jan  | Find the first node of loop in linked list  |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/25.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/25.py) |
+| 26 Jan  | Remove loop in Linked List  |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/26.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/26.py) |
 
 </div>
