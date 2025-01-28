@@ -1,6 +1,6 @@
 <h1 align = 'center'>🔒GeeksforGeeks Problem of the Day Solutions 2025🔒</h1>
 
-
+<div>
 <h2 align = 'center'>📅 January 2025 Problem of the Day Solutions 📅</h2>
 
 <div align = 'center'>
@@ -31,5 +31,18 @@
 | 26 Jan  | Remove loop in Linked List  |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/26.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/26.py) |
 | 27 Jan  | LRU Cache  |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/27.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/27.py) |
 | 28 Jan  | Permutations of a String  |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/28.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/28.py) |
+---
+</div>
+</div>
 
+<div style="margin-top: 20px;">
+  <h2 align = 'center'>📅 February 2025 Problem of the Day Solutions 📅</h2>
+  
+  <div align = 'center'>
+    
+  | Date    | Problem Name              | C        |  C++     | Python   |
+  |---------|---------------------------|----------|----------|----------|
+  | 01 Feb  |   |  | [Solution]() | [Solution]() |
+  
+  </div>  
 </div>
