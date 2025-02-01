@@ -45,7 +45,7 @@
     
   | Date    | Problem Name              | C        |  C++     | Python   |
   |---------|---------------------------|----------|----------|----------|
-  | 01 Feb  |   |  | [Solution]() | [Solution]() |
+  | 01 Feb  | Word Search |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/01.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/01.py) |
   
   </div>  
 </div>
