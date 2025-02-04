@@ -3,6 +3,8 @@
 <div>
 <h2 align = 'center'>📅 January 2025 Problem of the Day Solutions 📅</h2>
 
+<details>
+<summary>Complete January Solutions (Click to see complete data)</summary>
 <div align = 'center'>
 
 | Date    | Problem Name              | C        |  C++     | Python   |
@@ -36,6 +38,7 @@
 | 31 Jan  | Solve the Sudoku  |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/31.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202025/31.py) |
 ---
 </div>
+</details>
 </div>
 
 <div style="margin-top: 20px;">
