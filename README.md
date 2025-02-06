@@ -53,6 +53,7 @@
   | 03 Feb  | Height of Binary Tree | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/03.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/03.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/03.py) |
   | 04 Feb  | Diameter of a Binary Tree | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/04.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/04.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/04.py) |
   | 05 Feb  | Mirror Tree | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/05.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/05.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/05.py) |
+  | 05 Feb  | Construct Tree from Inorder & Preorder |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/06.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/06.py) |
   
   </div>  
 </div>
