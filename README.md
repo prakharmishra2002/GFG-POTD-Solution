@@ -55,6 +55,6 @@
   | 05 Feb  | Mirror Tree | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/05.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/05.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/05.py) |
   | 06 Feb  | Construct Tree from Inorder & Preorder |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/06.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/06.py) |
   | 07 Feb  | Inorder Traversal |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/07.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/07.py) |
-  ---
+  --- 
   </div>  
 </div>
