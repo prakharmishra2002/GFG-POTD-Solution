@@ -56,6 +56,7 @@
   | 06 Feb  | Construct Tree from Inorder & Preorder |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/06.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/06.py) |
   | 07 Feb  | Inorder Traversal |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/07.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/07.py) |
   | 08 Feb  | Tree Boundary Traversal |  |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/08.py) |
+  | 09 Feb  | Maximum path sum from any node |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/09.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/09.py) |
   --- 
   </div>   
 </div>
