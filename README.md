@@ -60,6 +60,7 @@
   | 10 Feb  | K Sum Paths |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/10.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/10.py) |
   | 11 Feb  | Check for BST |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/11.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/11.py) |
   | 12 Feb  | k-th Smallest in BST | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/12.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/12.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/12.py) |
+  | 12 Feb  | Pair Sum in BST |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/13.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/13.py) |
   --- 
   </div>   
 </div>
