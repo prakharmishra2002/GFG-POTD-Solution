@@ -43,6 +43,8 @@
 
 <div style="margin-top: 20px;">
   <h2 align = 'center'>📅 February 2025 Problem of the Day Solutions 📅</h2>
+  <details>
+  <summary><h3>Complete February Solutions (Click to see complete solutions)</h3></summary>
    
   <div align = 'center'>
     
@@ -75,7 +77,9 @@
   | 25 Feb  | Histogram Max Rectangular Area |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/25.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/25.py) |
   | 26 Feb  | Maximum of minimum for every window size |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/26.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/26.py) |
   | 27 Feb  | Get Min from Stack |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/27.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/27.py) |
+  | 28 Feb  | Evaluation of Postfix Expression |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/28.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/Februrary%202025/28.py) |
 
-  </div>   
+  </div> 
+  </details>
    <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
 </div>
