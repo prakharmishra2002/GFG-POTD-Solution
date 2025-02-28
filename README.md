@@ -83,3 +83,19 @@
   </details>
    <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
 </div>
+
+
+
+<div style="margin-top: 20px;">
+  <h2 align = 'center'>📅 March 2025 Problem of the Day Solutions 📅</h2>
+
+   
+  <div align = 'center'>
+    
+  | Date    | Problem Name              | C        |  C++     | Python   |
+  |---------|---------------------------|----------|----------|----------|
+  | 01 Mar  |  |  |  |  |
+
+  </div> 
+   <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
+</div>
