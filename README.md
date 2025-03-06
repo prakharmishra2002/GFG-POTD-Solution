@@ -99,6 +99,7 @@
   | 03 Mar  | Longest Bounded-Difference Subarray |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/03.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/03.py) |
   | 04 Mar  | Longest Increasing Subsequence |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/04.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/04.py) |
   | 05 Mar  | Longest String Chain |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/05.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/05.py) |
+  | 06 Mar  | Longest Common Subsequence |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/06.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/06.py) |
 
   </div> 
    <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
