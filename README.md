@@ -102,6 +102,7 @@
   | 06 Mar  | Longest Common Subsequence |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/06.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/06.py) |
   | 07 Mar  | Longest Palindromic Subsequence |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/07.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/07.py) |
   | 08 Mar  | Longest Palindrome in a String |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/08.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/08.py) |
+  | 09 Mar  | Palindrome SubStrings |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/09.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/09.py) |
 
   </div> 
    <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
