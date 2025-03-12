@@ -105,6 +105,7 @@
   | 09 Mar  | Palindrome SubStrings |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/09.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/09.py) |
   | 10 Mar  | Edit Distance |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/10.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/10.py) |
   | 11 Mar  | Ways to Reach the n'th Stair |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/11.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/11.py) |
+  | 12 Mar  | Min Cost Climbing Stairs |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/12.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/12.py) |
 
   </div> 
    <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
