@@ -107,6 +107,7 @@
   | 11 Mar  | Ways to Reach the n'th Stair |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/11.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/11.py) |
   | 12 Mar  | Min Cost Climbing Stairs |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/12.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/12.py) |
   | 13 Mar  | 0 - 1 Knapsack Problem |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/13.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/13.py) |
+  | 14 Mar  | Coin Change (Count Ways) |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/14.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/14.py) |
 
   </div> 
    <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
