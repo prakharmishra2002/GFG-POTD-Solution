@@ -113,6 +113,7 @@
   | 17 Mar  | Subset Sum Problem |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/17.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/17.py) |
   | 18 Mar  | Partition Equal Subset Sum |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/18.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/18.py) |
   | 19 Mar  | Stock Buy and Sell – Max K Transactions Allowed |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/19.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/19.py) |
+  | 20 Mar  | Stock Buy and Sell – Max 2 Transactions Allowed |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/20.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/20.py) |
 
   </div> 
    <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
