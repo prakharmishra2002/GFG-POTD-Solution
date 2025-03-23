@@ -116,6 +116,7 @@
   | 20 Mar  | Stock Buy and Sell – Max 2 Transactions Allowed |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/20.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/20.py) |
   | 21 Mar  | Stickler Thief I  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/21.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/21.py) |
   | 22 Mar  | Stickler Thief II  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/22.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/22.py) |
+  | 23 Mar  | Total Decoding Messages  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/23.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/23.py) |
 
   </div> 
    <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
