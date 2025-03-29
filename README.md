@@ -36,6 +36,7 @@
   | 26 Mar  | Word Break |   | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/26.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/26.py) |
   | 27 Mar  | Minimum Platforms |   | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/27.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/27.py) |
   | 28 Mar  | Activity Selection |   | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/28.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/28.py) |
+  | 29 Mar  | Job Sequencing Problem |   | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/29.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/29.py) |
 
   </div> 
    <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
