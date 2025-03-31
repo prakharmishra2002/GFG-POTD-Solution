@@ -1,8 +1,25 @@
 <h1 align = 'center'>🔒GeeksforGeeks Problem of the Day Solutions 2025🔒</h1>
 
 <div style="margin-top: 20px;">
-  <h2 align = 'center'>📅 March 2025 Problem of the Day Solutions 📅</h2>
+  <h2 align = 'center'>📅 April 2025 Problem of the Day Solutions 📅</h2>
 
+   
+  <div align = 'center'>
+    
+  | Date    | Problem Name              | C        |  C++     | Python   |
+  |---------|---------------------------|----------|----------|----------|
+  | 01 Apr  |  |  |  |  |
+
+  </div> 
+   <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
+</div>
+
+
+
+<div style="margin-top: 20px;">
+  <h2 align = 'center'>📅 March 2025 Problem of the Day Solutions 📅</h2>
+    <details>
+    <summary><h3>Complete March Solutions (Click to see complete solutions)</h3></summary>
    
   <div align = 'center'>
     
@@ -38,8 +55,10 @@
   | 28 Mar  | Activity Selection |   | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/28.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/28.py) |
   | 29 Mar  | Job Sequencing Problem |   | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/29.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/29.py) |
   | 30 Mar  | Gas Station |   | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/30.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/30.py) |
+  | 31 Mar  | Maximize partitions in a String |   | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/31.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/March%202025/31.py) |
 
   </div> 
+    </details>
    <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
 </div>
 
