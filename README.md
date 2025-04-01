@@ -8,7 +8,7 @@
     
   | Date    | Problem Name              | C        |  C++     | Python   |
   |---------|---------------------------|----------|----------|----------|
-  | 01 Apr  | DFS of Graph |  |  |  |
+  | 01 Apr  | DFS of Graph |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/01.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/01.py) |
 
   </div> 
    <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
