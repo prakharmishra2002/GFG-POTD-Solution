@@ -16,6 +16,7 @@
   | 06 Apr  | Topological Sort |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/06.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/06.py) |
   | 07 Apr  | Directed Graph Cycle | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/07.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/07.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/07.py) |
   | 08 Apr  | Bridge edge in a graph |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/08.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/08.py) |
+  | 09 Apr  | Articulation Point - II |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/09.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/09.py) |
 
   </div> 
    <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
