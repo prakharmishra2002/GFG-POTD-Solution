@@ -22,6 +22,8 @@
   | 12 Apr  | Flood fill Algorithm |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/12.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/12.py) |
   | 13 Apr  | Clone an Undirected Graph |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/13.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/13.py) |
   | 14 Apr  | Alien Dictionary |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/14.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/14.py) |
+  | 15 Apr  | Bellman-Ford |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/15.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/15.py) |
+  | 16 Apr  | Floyd Warshall |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/16.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/16.py) |
 
   </div> 
    <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
