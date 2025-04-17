@@ -24,6 +24,7 @@
   | 14 Apr  | Alien Dictionary |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/14.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/14.py) |
   | 15 Apr  | Bellman-Ford |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/15.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/15.py) |
   | 16 Apr  | Floyd Warshall |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/16.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/16.py) |
+  | 17 Apr  | Minimum Weight Cycle |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/17.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/17.py) |
 
   </div> 
    <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
