@@ -31,6 +31,7 @@
   | 21 Apr  | Missing in Array |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/21.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/21.py) |
   | 22 Apr  | Unique Number I |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/22.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/22.py) |
   | 23 Apr  | Unique Number II |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/23.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/23.py) |
+  | 24 Apr  | Unique Number III |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/24.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/April%202025/24.py) |
 
   </div> 
    <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
