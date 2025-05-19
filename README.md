@@ -1,6 +1,5 @@
 <h1 align = 'center'>🔒GeeksforGeeks Problem of the Day Solutions 2025🔒</h1>
 
-
 <div style="margin-top: 20px;">
   <h2 align = 'center'>📅 May 2025 Problem of the Day Solutions 📅</h2>
 
