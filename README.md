@@ -1,14 +1,14 @@
 <h1 align = 'center'>🔒GeeksforGeeks Problem of the Day Solutions 2025🔒</h1>
 
 <div style="margin-top: 20px;">
-  <h2 align = 'center'>📅 May 2025 Problem of the Day Solutions 📅</h2>
+  <h2 align = 'center'>📅 June 2025 Problem of the Day Solutions 📅</h2>
 
   <div align = 'center'>
  
    
   | Date    | Problem Name              | C        |  C++     | Python   |
   |---------|---------------------------|----------|----------|----------|
-  | 01 May  |  |  |  |  |
+  | 01 June  | Count pairs Sum in matrices |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/01.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/01.py) |
 
   </div> 
    <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
