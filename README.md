@@ -13,6 +13,7 @@
   | 03 June  | Substrings with K Distinct |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/03.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/03.py) |
   | 04 June  | LCS of three Strings |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/04.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/04.py) |
   | 05 June  | Count the paths |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/05.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/05.py) |
+  | 06 June  | Search Pattern (Rabin-Karp Algorithm) |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/06.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/06.py) |
 
   </div> 
    <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
