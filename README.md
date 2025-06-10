@@ -17,6 +17,7 @@
   | 07 June  | Longest Span in two Binary Arrays |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/07.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/07.py) |
   | 08 June  | Sum-String |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/08.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/08.py) |
   | 09 June  | BST with Dead End |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/09.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/09.py) |
+  | 10 June  | Exactly one swap |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/10.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/10.py) |
 
   </div> 
    <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
