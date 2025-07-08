@@ -12,8 +12,9 @@
   |---------|---------------------------|----------|----------|----------|
   | 03 Jul  | Longest Substring with K Uniques |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/03.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/03.py) |
   | 04 Jul  | Subarrays With At Most K Distinct Integers |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/04.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/04.py) |
-  | 05 Jul  | Maximum Sum Combination |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/05.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/05.py) |
+  | 06 Jul  | Maximum Sum Combination |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/05.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/05.py) |
   | 07 Jul  | Next Greater Element in Circular Array |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/07.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/07.py) |
+  | 08 Jul  | Next element with greater frequency |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/08.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/08.py) |
 
   </div> 
   <!-- </details> -->
