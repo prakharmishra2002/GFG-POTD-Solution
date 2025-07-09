@@ -15,6 +15,7 @@
   | 06 Jul  | Maximum Sum Combination |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/05.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/05.py) |
   | 07 Jul  | Next Greater Element in Circular Array |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/07.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/07.py) |
   | 08 Jul  | Next element with greater frequency |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/08.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/08.py) |
+  | 09 Jul  | Sum of subarray minimum |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/09.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/09.py) |
 
   </div> 
   <!-- </details> -->
