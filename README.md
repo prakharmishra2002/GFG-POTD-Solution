@@ -17,6 +17,7 @@
   | 08 Jul  | Next element with greater frequency |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/08.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/08.py) |
   | 09 Jul  | Sum of subarray minimum |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/09.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/09.py) |
   | 11 Jul  | Trail of ones |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/11.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/11.py) |
+  | 12 Jul  | Gold Mine Problem |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/12.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/12.py) |
 
   </div> 
   <!-- </details> -->
