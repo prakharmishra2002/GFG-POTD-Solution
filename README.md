@@ -23,6 +23,7 @@
   | 25 Jul  | Max Circular Subarray Sum |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/25.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/25.py) |
   | 26 Jul  | Majority Element II |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/26.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/26.py) |
   | 28 Jul  | Make Matrix Beautiful | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/28.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/28.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/28.py) |
+  | 31 Jul  | Powerful Integer |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/31.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/June%202025/31.py) |
 
   </div> 
   <!-- </details> -->
