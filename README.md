@@ -2,9 +2,26 @@
 
 
 <div style="margin-top: 20px;">
-  <h2 align = 'center'>📅 July 2025 Problem of the Day Solutions 📅</h2>
+  <h2 align = 'center'>📅 August 2025 Problem of the Day Solutions 📅</h2>
     <!--  <details>
-    <summary><h3>Complete July Solutions (Click to see complete solutions)</h3></summary>  -->
+    <summary><h3>Complete August Solutions (Click to see complete solutions)</h3></summary>  -->
+  <div align = 'center'>
+ 
+   
+  | Date    | Problem Name              | C        |  C++     | Python   |
+  |---------|---------------------------|----------|----------|----------|
+  | 04 Aug  | Maximum sum Rectangle |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/04.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/04.py) |
+
+  </div> 
+  <!-- </details> -->
+   <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
+</div>
+
+
+<div style="margin-top: 20px;">
+  <h2 align = 'center'>📅 July 2025 Problem of the Day Solutions 📅</h2>
+    <details>
+    <summary><h3>Complete July Solutions (Click to see complete solutions)</h3></summary>  
   <div align = 'center'>
  
    
@@ -26,7 +43,7 @@
   | 31 Jul  | Powerful Integer |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/July%202025/31.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/July%202025/31.py) |
 
   </div> 
-  <!-- </details> -->
+  </details> 
    <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
 </div>
 
