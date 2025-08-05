@@ -11,6 +11,7 @@
   | Date    | Problem Name              | C        |  C++     | Python   |
   |---------|---------------------------|----------|----------|----------|
   | 04 Aug  | Maximum sum Rectangle |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/04.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/04.py) |
+  | 05 Aug  | Palindrome Sentence |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/05.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/05.py) |
 
   </div> 
   <!-- </details> -->
