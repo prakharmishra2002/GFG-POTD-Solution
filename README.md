@@ -13,6 +13,7 @@
   | 04 Aug  | Maximum sum Rectangle |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/04.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/04.py) |
   | 05 Aug  | Palindrome Sentence |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/05.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/05.py) |
   | 07 Aug  | Difference Check |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/07.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/07.py) |
+  | 09 Aug  | Longest Periodic Proper Prefix |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/09.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/09.py) |
 
   </div> 
   <!-- </details> -->
