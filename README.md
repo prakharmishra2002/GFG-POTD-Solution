@@ -14,6 +14,7 @@
   | 05 Aug  | Palindrome Sentence |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/05.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/05.py) |
   | 07 Aug  | Difference Check |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/07.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/07.py) |
   | 09 Aug  | Longest Periodic Proper Prefix |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/09.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/09.py) |
+  | 21 Aug  | Maximize the minimum difference between k elements |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/21.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/21.py) |
 
   </div> 
   <!-- </details> -->
