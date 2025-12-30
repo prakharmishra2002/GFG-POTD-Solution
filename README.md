@@ -1,11 +1,30 @@
-<h1 align = 'center'>🔒GeeksforGeeks Problem of the Day Solutions 2025🔒</h1>
+<h1 align = 'center'>🔒GeeksforGeeks Problem of the Day Solutions🔒</h1>
+
+<div>
+<h2 align = 'center'>📅 January 2026 Problem of the Day Solutions 📅</h2>
+
+<!-- <details>
+<summary><h3>Complete January Solutions (Click to see complete solutions)</h3></summary> -->
+<div align = 'center'>
+
+| Date    | Problem Name              | C        |  C++     | Python   |
+|---------|---------------------------|----------|----------|----------|
+| 01 Jan  | Print Anagrams Together  |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/01.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/01.py) |
+
+</div>
+<!-- </details>
+ <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10"> -->
+</div>
 
 
+<!-- ============================================================================================2025============================================================================= -->
+<details>
+    <summary><h3>Complete 2025 Solutions </h3></summary>
 
 <div style="margin-top: 20px;">
   <h2 align = 'center'>📅 August 2025 Problem of the Day Solutions 📅</h2>
-    <!--  <details>
-    <summary><h3>Complete August Solutions (Click to see complete solutions)</h3></summary>  -->
+     <details>
+    <summary><h3>Complete August Solutions (Click to see complete solutions)</h3></summary> 
   <div align = 'center'>
  
    
@@ -18,7 +37,7 @@
   | 21 Aug  | Maximize the minimum difference between k elements |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/21.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/August%202025/21.py) |
 
   </div> 
-  <!-- </details> -->
+  </details>
    <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
 </div>
 
@@ -268,3 +287,6 @@
 </details>
  <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
 </div>
+
+ </details>
+   <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
