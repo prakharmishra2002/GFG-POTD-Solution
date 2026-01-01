@@ -9,7 +9,7 @@
 
 | Date    | Problem Name              | C        |  C++     | Python   |
 |---------|---------------------------|----------|----------|----------|
-| 01 Jan  | Print Anagrams Together  |  | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/01.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/01.py) |
+| 01 Jan  | Intersection in Y Shaped Lists | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/01.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/01.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/01.py) |
 
 </div>
 <!-- </details>
