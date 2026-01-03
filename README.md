@@ -10,6 +10,7 @@
 | Date    | Problem Name              | C        |  C++     | Python   |
 |---------|---------------------------|----------|----------|----------|
 | 01 Jan  | Intersection in Y Shaped Lists | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/01.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/01.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/01.py) |
+| 03 Jan  | Flattening a Linked List | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/03.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/03.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/03.py) |
 
 </div>
 <!-- </details>
