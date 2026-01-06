@@ -13,6 +13,7 @@
 | 03 Jan  | Flattening a Linked List | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/03.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/03.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/03.py) |
 | 04 Jan  | Sort 0s, 1s and 2s | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/04.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/04.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/04.py) |
 | 05 Jan  | Max Sum Subarray of size K | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/05.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/05.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/05.py) |
+| 06 Jan  | Max Xor Subarray of size K | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/06.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/06.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/06.py) |
 
 </div>
 <!-- </details>
