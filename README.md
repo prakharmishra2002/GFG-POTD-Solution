@@ -14,6 +14,7 @@
 | 04 Jan  | Sort 0s, 1s and 2s | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/04.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/04.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/04.py) |
 | 05 Jan  | Max Sum Subarray of size K | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/05.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/05.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/05.py) |
 | 06 Jan  | Max Xor Subarray of size K | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/06.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/06.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/06.py) |
+| 07 Jan  | Count distinct elements in every window | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/07.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/07.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/07.py) |
 
 </div>
 <!-- </details>
