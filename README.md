@@ -16,6 +16,7 @@
 | 06 Jan  | Max Xor Subarray of size K | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/06.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/06.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/06.py) |
 | 08 Jan  | Count distinct elements in every window | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/08.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/08.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/08.py) |
 | 09 Jan  | Subarrays With At Most K Distinct Integers | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/09.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/09.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/09.py) |
+| 10 Jan  | Substrings with K Distinct | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/10.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/10.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/10.py) |
 
 </div>
 <!-- </details>
