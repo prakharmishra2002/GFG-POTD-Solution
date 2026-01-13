@@ -17,6 +17,7 @@
 | 08 Jan  | Count distinct elements in every window | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/08.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/08.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/08.py) |
 | 09 Jan  | Subarrays With At Most K Distinct Integers | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/09.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/09.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/09.py) |
 | 10 Jan  | Substrings with K Distinct | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/10.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/10.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/10.py) |
+| 13 Jan  | Bus Ticket Change | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/13.c) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/13.cpp) | [Solution](https://github.com/prakharmishra2002/GFG-POTD-Solution/blob/main/January%202026/13.py) |
 
 </div>
 <!-- </details>
